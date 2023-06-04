@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "engiro",
+      "maintainer": "Wondernica Technologies",
+      "websiteURL": "https://www.wondernica.com",
+      "email" : "techsupport@wondernica.com",
+      "platforms":
+      [
+        {
+          "name": "Engiro-A",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/wondernica/engiro-arduino/raw/master/Engiro-1.0.0.zip",
+          "archiveFileName": "Engiro-1.0.0.zip",
+          "checksum": "SHA-256:0c9352c80cbd8d7df01e229927d9e879421261656e99bfc196d822b724302ac4",
+          "size": "1576019",
+          "boards": [
+            {
+              "name": "Engiro-A"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
