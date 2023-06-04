@@ -7,7 +7,7 @@ Copy and paste the following URL into the File > Preferences > "Additional Board
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="https://raw.githubusercontent.com/wondernica/engiro-arduino/master/package_engiro_index.json"><pre class="notranslate"><code>https://raw.githubusercontent.com/wondernica/engiro-arduino/master/package_engiro_index.json</code></pre></div>
 
-The latest version is 0.0.0
+The latest version is 1.0.0
 
 Make sure to also install the Arduino SAMD Library at the same time.
 
