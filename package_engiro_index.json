@@ -15,7 +15,7 @@
           "category": "Contributed",
           "url": "https://github.com/wondernica/engiro-arduino/raw/master/Engiro-0.0.0.zip",
           "archiveFileName": "Engiro-0.0.0.zip",
-          "checksum": "SHA-256:44a1b3e24cef657eb8dc50267a524e94",
+          "checksum": "SHA-256:44a1b3e24cef657eb8dc50267a524e94098b2cef2d66a58428e563f3d3a68e88ca517142bce59b3f7b81665960f4fab4",
           "size": "1709475",
           "boards": [
             {
