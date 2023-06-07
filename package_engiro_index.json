@@ -3,9 +3,9 @@
   [
     {
       "name": "engiro",
-      "maintainer": "Wondernica Technologies",
-      "websiteURL": "https://www.wondernica.com",
-      "email" : "techsupport@wondernica.com",
+      "maintainer": "Kong Leong Teng",
+      "websiteURL": "",
+      "email" : "klteng73@gmail.com",
       "platforms":
       [
         {
@@ -13,7 +13,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/wondernica/engiro-arduino/raw/master/Engiro-1.0.0.zip",
+          "url": "https://github.com/klteng/engiro-arduino/raw/master/Engiro-1.0.0.zip",
           "archiveFileName": "Engiro-1.0.0.zip",
           "checksum": "SHA-256:28c6846e656f2e13ed2dfc4ab47c63c9f34008066bac3c38127c006422181d6d",
           "size": "1697960",
