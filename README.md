@@ -1,5 +1,5 @@
 # engiro-arduino
-Repository for Arduino related files and custom board definition.
+Repository for Arduino related files and Engiro-A board definition by Kong Leong Teng.
 
 <h2>Arduino IDE</h2>
 
